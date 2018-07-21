@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "556460425884",
+    "firebase_url": "https://lens-50098.firebaseio.com",
+    "project_id": "lens-50098",
+    "storage_bucket": "lens-50098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556460425884:android:516f5b60e74dc386",
+        "android_client_info": {
+          "package_name": "me.dats.com.googlelens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556460425884-hv4u8kv4kou8kko88cihsjle73lv6ek2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.dats.com.googlelens",
+            "certificate_hash": "a610aea413b25c45a550f9010e9d4c02c233b55a"
+          }
+        },
+        {
+          "client_id": "556460425884-h38gvs4hqii65ekuvja6qneodkkv4dl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXMx585C0ZZbx8-pmGMqFEwsYFlzYHEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556460425884-h38gvs4hqii65ekuvja6qneodkkv4dl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
